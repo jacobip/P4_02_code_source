@@ -1,0 +1,7 @@
+User-agent : *
+Disallow: /Users/pauljacobi/Documents/GitHub/P4_02_code_source/includes
+Disallow: /Users/pauljacobi/Documents/GitHub/P4_02_code_source/css
+Disallow: /Users/pauljacobi/Documents/GitHub/P4_02_code_source/fonts
+Disallow: /Users/pauljacobi/Documents/GitHub/P4_02_code_source/js
+
+Sitemap: https://github.com/jacobip/P4_02_code_source/blob/main/sitemap.xml

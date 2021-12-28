@@ -18,6 +18,24 @@ body {
     font-style: italic;
 }
 
+.titre {
+    font-weight: bold;
+    text-shadow: black 2px 5px;
+}
+
+.texte-blanc {
+    color: #FFF;
+    text-shadow: black 2px 2px;
+}
+
+.nav_item {
+    font-weight: bold;
+}
+
+.nav_item:hover {
+    color: #F3976C!important;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -793,7 +811,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -840,7 +858,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/bureau_post_it.jpg");
 }
 
 @media (max-width: 1024px) {

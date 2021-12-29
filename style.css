@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+#message {
+    height: 100px;
+}
+
 .social {
     text-shadow: none;
     color: black!important;
@@ -575,6 +579,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: 469px;
 }
 
 .scrollToTop {

@@ -84,9 +84,9 @@ footer p {
 
 .titre-liste {
     color: black!important;
-    text-shadow: none;
-    font-size: 16px;
-    text-align: center;
+    text-shadow: none!important;
+    font-size: 16px!important;
+    text-align: center!important;
 }
 
 a,

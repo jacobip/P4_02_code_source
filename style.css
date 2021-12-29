@@ -36,6 +36,16 @@ body {
     color: #F3976C!important;
 }
 
+.logonav {
+    height: 40px;
+    width: auto;
+}
+
+.logocoul {
+    width: 100;
+    height: auto;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -770,6 +780,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 280px;
+    height: auto;
 }
 
 .portfolio-row {

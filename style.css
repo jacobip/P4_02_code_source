@@ -7,6 +7,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.social {
+    text-shadow: none;
+    color: black!important;
+}
+
 .texte {
     font-size: 23px;
     font-weight: bold;

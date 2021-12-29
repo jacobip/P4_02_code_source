@@ -46,6 +46,29 @@ body {
     height: auto;
 }
 
+.petit {
+    font-size: 15px;
+    color: black!important;
+}
+
+.petit-blanc {
+    font-size: 15px;
+    text-shadow: black 2px 2px;
+}
+
+.gros-blanc {
+    text-shadow: black 2px 2px;
+}
+
+footer a {
+    color: black!important;
+}
+
+footer p {
+    font-size: 13px;
+    text-shadow: black 1px 1px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;

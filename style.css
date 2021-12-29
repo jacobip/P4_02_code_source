@@ -11,6 +11,10 @@ body {
     height: 100px;
 }
 
+.blanc2 {
+    font-size: 21px;
+}
+
 .social {
     text-shadow: none;
     color: black!important;
@@ -76,6 +80,13 @@ footer a {
 footer p {
     font-size: 13px;
     text-shadow: black 1px 1px;
+}
+
+.titre-liste {
+    color: black!important;
+    text-shadow: none;
+    font-size: 16px;
+    text-align: center;
 }
 
 a,
